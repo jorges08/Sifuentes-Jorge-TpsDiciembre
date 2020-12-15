@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ferreteria>
+  <proveedores>
+    <id_proveedor>111</id_proveedor>
+    <nombre_empresa>sancor</nombre_empresa>
+    <materiales>leche</materiales>
+    <precio_material>20</precio_material>
+    <descripcion_material>rico</descripcion_material>
+  </proveedores>
+</ferreteria>
